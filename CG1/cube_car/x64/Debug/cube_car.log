@@ -1,0 +1,4 @@
+﻿  cube.cpp
+C:\Users\pc\Desktop\재오 컴그과제\src\cube.cpp(259,22): warning C4101: 'pvmMat' :참조되지 않은 지역 변수입니다.
+C:\Users\pc\Desktop\재오 컴그과제\src\cube.cpp(281,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cube_car.vcxproj -> C:\Users\pc\Desktop\재오 컴그과제\x64\Debug\cube_car.exe
